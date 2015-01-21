@@ -10,5 +10,5 @@ You will find an *index.html* with the basic markup of each Bootstrap element. S
 ##Elements
 * Page header
 * H1-H6 Headings
-* Paragraphs and body classes
+* Paragraphs and body classes 
 ..* Links
