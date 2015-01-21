@@ -19,5 +19,6 @@ You will find an *index.html* with the basic markup of each Bootstrap element. S
     * Underlined text  
     * Small text  
     * Bold  
-    * Italics  
-*Blockquotes
+    * Italics 
+* Blockquotes
+
