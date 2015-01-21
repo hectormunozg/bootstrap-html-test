@@ -21,4 +21,90 @@ You will find an *index.html* with the basic markup of each Bootstrap element. S
     * Bold  
     * Italics 
 * Blockquotes
+* Lists  
+    * Unordered list  
+    * Ordered list  
+    * Unstyled list  
+    * Inline list  
+    * Descriptions  
+    * Horizontal description 
+* Code  
+    * Snippets  
+    * Code blocks 
+* Buttons  
+    * Button block
+    * Disabled  
+    * Button groups  
+    * Button toolbar  
+    * Sizing  
+    * Nesting  
+    * Vertical variation 
+* Buttons dropdown  
+    * Buttons split dropdown  
+    * Sizing  
+    * Dropup variation 
+* Dropdowns  
+    * Headers  
+    * Dividers  
+    * Disabled items 
+* Navs  
+    * Tabs  
+    * Pills  
+    * Vertical pills 
+* Navbar  
+    * Inversed navbar 
+* Breadcrumbs
+* Pagination  
+    * Sizing 
+* Pager
+* Labels  
+    * Variations 
+* Badges
+* Images
+* Thumbnails
+* Jumbotron
+* Alerts  
+    * Dismissible alerts 
+* Progress bars  
+    * With labels  
+    * Contextual alternatives  
+    * Stripped  
+    * Animated  
+    * Stacked 
+* Media Objects
+* Tables  
+    * Basic  
+    * Stripped  
+    * Bordered table  
+    * Hover rows  
+    * Condensed table  
+    * Contextual classes 
+* Forms  
+    * Basic  
+    * Inline form  
+    * Horizontal form  
+    * Form elements  
+    * Inline checkboxes  
+    * Selects  
+    * Static control  
+    * Disable state  
+    * Readonly state  
+    * Validation states  
+    * Control sizing  
+    * Help text 
+* Helper classes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
