@@ -8,7 +8,7 @@ If you have a Bootstrap custom layout and you want to test it, you have all the 
 You will find an *index.html* with the basic markup of each Bootstrap element. So, if you are customizing your own Bootstrap using Less or Sass, this could be an easy way to see on the road how are looking the main elements of your layout.
 
 ##Elements
-+ Page header
-+ H1-H6 Headings
-+ Paragraphs and body classes
-..+ Links
+* Page header
+* H1-H6 Headings
+* Paragraphs and body classes
+..* Links
